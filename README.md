@@ -32,3 +32,5 @@ Contributions are welcome! If you would like to contribute to VisaVoyager, pleas
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+Here is the final sentence. 
